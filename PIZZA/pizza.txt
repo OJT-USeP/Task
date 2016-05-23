@@ -1,0 +1,86 @@
+PIZZA
+
+1	Cheese Lovers
+ 	299
+
+2	Hawaiian Supreme
+	299
+
+3	Cheesy Pepperoni
+ 	299
+
+4	Italian Delight
+	 299
+
+PASTA
+
+5	Spaghetti Bolognese with Meatballs
+	155
+
+6 	Lasagna Classico
+	239
+
+7 	Spaghetti Carbonara
+	105
+
+8 	Spaghetti Meat Sauce
+	105
+
+CHICKEN
+
+9 	4 pcs Fried Chicken
+	329
+
+10	6 pcs Fried Chicken
+	479
+
+11 	10 pcs Fried Chicken
+	799
+
+12 	Honey BBQ
+	159
+
+APPETIZER
+13 	Garlic Bread
+	75
+
+
+14	Sausage Rolls
+	139
+
+15 	Slingers
+	105
+
+16  	Flavored Rice
+	29
+
+BEVERAGES N MORE
+
+17	Baked Cinnamon sticks
+	65
+
+18	Extra milk dip
+	9
+
+19	Pepsi 1.5L
+	79
+
+
+20 	12oz. Lipton Iced Tea
+	45
+
+
+promo
+
+21 	Hut Feast Meal for 2
+	299
+
+22 	Hut Feast Meal for 4
+	619
+
+23 	Hut Feast Meal for 6
+	899
+
+
+24	Supreme Deals
+	499
