@@ -17,6 +17,7 @@
     /* Remove the jumbotron's default bottom margin */ 
      .jumbotron {
       margin-bottom: 0;
+      background-color: #ec000c;
     }
    
     /* Add a gray background color and some padding to the footer */
